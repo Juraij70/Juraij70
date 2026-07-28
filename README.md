@@ -1,6 +1,6 @@
-I'm Juraij, a software developer in Abu Dhabi.
-Proficient in React, Java, Python, REact Native, JavaScript, and SQL.
-Explore my projects in my portfolio.
+Hi, this is Juraij, a Software Engineer in Abu Dhabi.
+Proficient in WebDev and Application implementation and maintenance.
+Explore my projects in my portfolio for some front-end demos.
 Let's connect via m.juraij70@gmail.com/ LinkedIn.
 
 <!---
